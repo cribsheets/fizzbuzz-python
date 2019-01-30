@@ -77,5 +77,14 @@ to return to the master branch:
 
 ## can you do better?
 
+if you have a solution you'd like to share, rename
+your file `fizzbuzz-username.py` (where 'username' is
+your github username) and and issue a pull request to
+merge into the `solutions` branch.
+
 if you have a particularly clever solution, let us know!
-we'll add it to the 'clever solutions' section.
+we'll add it below.
+
+## clever solutions
+
+
